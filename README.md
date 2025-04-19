@@ -98,7 +98,3 @@ Coming soon...
 - 👤 Teammate 2 – Search/Filter Features
 
 ---
-
-## 📃 License
-
-MIT License © 2025 Pulse Career Team
